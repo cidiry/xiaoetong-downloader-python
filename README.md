@@ -65,7 +65,7 @@ python main.py
 5. 设置线程数和延迟时间
 6. 点击“获取所选视频/直播链接”
 7. 按需导出 txt 文件
-8. 使用m3u8下载工具批量下载视频资源，推荐https://github.com/Harlan-H/M3u8Downloader_H（v4.0.3版本）
+8. 使用m3u8下载工具批量下载视频资源，推荐v4.0.3版本 https://github.com/Harlan-H/M3u8Downloader_H
 
 ## 线程与延迟说明
 
